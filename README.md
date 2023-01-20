@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">A young and ambitious backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [carShop](https://github.com/Krzysztof-brylski/carShop)
+- 🔭 I’m currently working on [carShop](https://github.com/Krzysztof-brylski/carShop) and [-masochismCpp]([(https://github.com/Krzysztof-brylski/-masochismCpp)])
 
 - 🌱 I’m currently learning **Laravel, React, C++**
 
