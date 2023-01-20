@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, Im Christopher👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krzysztof-brylski&show_icons=true&theme=radical)
 
 <!--
 **Krzysztof-brylski/Krzysztof-brylski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
