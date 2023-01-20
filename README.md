@@ -2,11 +2,10 @@
 <h3 align="center">A young, ambitious and hungry for knowledge backend developer from Poland</h3>
 
 - 🔭 I’m currently working on [carShop](https://github.com/Krzysztof-brylski/carShop) and [-masochismCpp](https://github.com/Krzysztof-brylski/-masochismCpp)
-
 - 🌱 I’m currently learning **Laravel, PHP, React, Git, C++**
 - 👯 I’m looking for **internship / job as a junior php developer**
 - 📫 How to reach me **brylski.krzysztof@op.pl**
-
+- ⚡ Fun fact: I can spend countless hours to fix my code
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Main Languages and Frameworks:</h4>
 <p align="left">
