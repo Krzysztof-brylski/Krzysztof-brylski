@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">A young, ambitious and hungry for knowledge backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [carShop](https://github.com/Krzysztof-brylski/carShop) and [-masochismCpp](https://github.com/Krzysztof-brylski/-masochismCpp)
+- 🔭 I’m currently working on [shop](https://github.com/Krzysztof-brylski/shop), [carShop](https://github.com/Krzysztof-brylski/carShop) and [-masochismCpp](https://github.com/Krzysztof-brylski/-masochismCpp)
 - 🌱 I’m currently learning **Calculus :/ , Laravel, PHP, React, Git, C++**
 - 👯 I’m looking for **internship / job as a junior php developer**
 - 📫 How to reach me **brylski.krzysztof@op.pl**
