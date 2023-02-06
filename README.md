@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Calculus :/ , Laravel, PHP, React, Git, C++**
 - 👯 I’m looking for **internship / job as a junior php developer**
 - 📫 How to reach me **brylski.krzysztof@op.pl**
-- ⚡ Fun fact: I am strongly disrecommending calculus, but linear algebra is cool.
+- ⚡ Fun fact: I am strongly disrecommending calculus, but linear algebra is cool (i got higher grade in calculus than algebra xd).
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Main Languages and Frameworks:</h4>
 <p align="left">
