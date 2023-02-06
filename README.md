@@ -2,7 +2,7 @@
 <h3 align="center">A young, ambitious and hungry for knowledge backend developer from Poland</h3>
 
 - 🔭 I’m currently working on [shop](https://github.com/Krzysztof-brylski/shop), [carShop](https://github.com/Krzysztof-brylski/carShop) and [-masochismCpp](https://github.com/Krzysztof-brylski/-masochismCpp)
-- 🌱 I’m currently learning **Calculus :/ , Laravel, PHP, React, Git, C++**
+- 🌱 I’m currently learning ** Laravel, PHP, React, Git, C++**
 - 👯 I’m looking for **internship / job as a junior php developer**
 - 📫 How to reach me **brylski.krzysztof@op.pl**
 - ⚡ Fun fact: I am strongly disrecommending calculus, but linear algebra is cool (i got higher grade in calculus than algebra xd).
