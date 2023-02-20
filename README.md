@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">A young, ambitious and hungry for knowledge backend developer from Poland</h3>
 
-- 🔭 I’m currently working on [parkingApp](https://github.com/Krzysztof-brylski/parkingApp), [shop](https://github.com/Krzysztof-brylski/shop) and [-masochismCpp](https://github.com/Krzysztof-brylski/-masochismCpp)
-- 🌱 I’m currently learning **Laravel, PHP, React, Git, C++**
+- 🔭 I’m currently working on **4 hours Symfony course on Youtube**
+- 🌱 I’m currently learning **Laravel, Symfony, PHP, React, Git**
 - 👯 I’m looking for **internship / job as a junior php developer**
 - 📫 How to reach me **brylski.krzysztof@op.pl**
 - ⚡ Fun fact: I am strongly disrecommending calculus, but linear algebra is cool (i got higher grade in calculus than algebra xd).
