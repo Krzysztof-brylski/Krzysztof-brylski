@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">A young, ambitious and hungry for knowledge backend developer from Poland</h3>
-
-- 🔭 I’m currently working with  [CodeWave](https://codewave.eu)
-- 🌱 I’m currently learning **Laravel, Symfony, PHP, React, Git**
-- 📫 How to reach me **brylski.krzysztof@op.pl**
-- ⚡ Fun fact: I am strongly disrecommending calculus, but linear algebra is cool (i got higher grade in calculus than algebra xd).
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Main Languages and Frameworks:</h4>
 <p align="left">
